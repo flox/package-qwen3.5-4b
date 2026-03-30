@@ -1,0 +1,52 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "schema-version": "1.11.0",
+    "install": {
+      "huggingface-hub": {
+        "pkg-path": "python313Packages.huggingface-hub",
+        "outputs": "all"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {
+      "systems": [
+        "x86_64-linux"
+      ]
+    }
+  },
+  "packages": [
+    {
+      "attr_path": "python313Packages.huggingface-hub",
+      "broken": false,
+      "derivation": "/nix/store/nki577ss8jxa8ain77176iigj12skhrw-python3.13-huggingface-hub-1.5.0.drv",
+      "description": "Download and publish models and other files on the huggingface.co hub",
+      "install_id": "huggingface-hub",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=8110df5ad7abf5d4c0f6fb0f8f978390e77f9685",
+      "name": "python3.13-huggingface-hub-1.5.0",
+      "pname": "huggingface-hub",
+      "rev": "8110df5ad7abf5d4c0f6fb0f8f978390e77f9685",
+      "rev_count": 971119,
+      "rev_date": "2026-03-28T14:48:23Z",
+      "scrape_date": "2026-03-30T05:17:27.414302Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.5.0",
+      "outputs_to_install": [
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/gbw1v5x262aicjr9x3mb3mwqbqzbnl4a-python3.13-huggingface-hub-1.5.0-dist",
+        "out": "/nix/store/n91zjkjvkqcgs0vl5j20gwqxihf1prn4-python3.13-huggingface-hub-1.5.0"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}
