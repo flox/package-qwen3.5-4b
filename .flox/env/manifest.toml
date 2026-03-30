@@ -1,0 +1,20 @@
+schema-version = "1.11.0"
+
+[install]
+huggingface-hub.pkg-path = "python313Packages.huggingface-hub"
+huggingface-hub.outputs = "all"
+
+[vars]
+
+[hook]
+
+[profile]
+
+[services]
+
+[include]
+
+[build]
+
+[options]
+systems = ["x86_64-linux"]
