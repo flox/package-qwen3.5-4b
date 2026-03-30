@@ -1,7 +1,7 @@
 {
   "build_version": 1,
   "force_increment": 0,
-  "git_rev": "0000000000000000000000000000000000000000",
-  "git_rev_short": "0000000",
+  "git_rev": "c545f419f13c090ed9f40f4eadd515a684e5b922",
+  "git_rev_short": "c545f41",
   "changelog": "Initial package."
 }
